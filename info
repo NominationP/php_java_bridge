@@ -1,0 +1,3 @@
+sign.jar                                /usr/share/tomcat/webapps/JavaBridge/WEB-INF/lib
+bcprov-jdk15-133.jar                    /usr/share/tomcat/lib
+888831201610002_16100201_sct.key        /current path
